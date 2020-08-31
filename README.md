@@ -1,5 +1,5 @@
 ## 👋🏻  Hi, I'm Ananay.
 
-- 🎓 Junior majoring in Computer Science at [https://asu.edu](Arizona State University)
-- 📜 Security Researcher at [https://sefcom.asu.edu](SEFCOM at ASU)
--  Ex-SWE Intern at Apple (Class of 2020)
+- 🎓 Junior majoring in Computer Science at [Arizona State University](https://asu.edu)
+- 📜 Security Researcher at [SEFCOM at ASU](https://sefcom.asu.edu)
+-  Ex-SWE Intern at [Apple](https://apple.com) (Class of 2020)
