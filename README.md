@@ -2,4 +2,4 @@
 
 - 🎓 Junior majoring in Computer Science at [Arizona State University](https://asu.edu)
 - 📜 Security Researcher at [SEFCOM at ASU](https://sefcom.asu.edu)
--  Ex-SWE Intern at [Apple](https://apple.com) (Class of 2020)
+-  SWE Intern at [Apple](https://apple.com) (Class of 2020, 2021)
