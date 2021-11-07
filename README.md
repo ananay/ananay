@@ -1,6 +1,7 @@
 ## 👋🏻  Hi, I'm Ananay.
 
 - 🎓 Senior majoring in Computer Science at [Arizona State University](https://asu.edu)
+- 💡 Daydreaming and inventing at the [Luminosity Lab](https://theluminositylab.com)
 - ⌚️ Founder at [Timebound](https://timebound.org)
 
 Previously:
