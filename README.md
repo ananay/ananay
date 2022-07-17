@@ -1,6 +1,7 @@
 ## 👋🏻  Hi, I'm Ananay.
 
 - 🎓 Studying Computer Science (Master's) at [Arizona State University](https://asu.edu)
+-  WiFi SWE Intern at [Apple](https://apple.com)
 - 💡 Daydreaming and inventing at the [Luminosity Lab](https://theluminositylab.com)
 - ⌚️ Founder at [Timebound](https://timebound.org)
 
