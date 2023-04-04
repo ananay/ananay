@@ -1,9 +1,8 @@
 ## 👋🏻  Hi, I'm Ananay.
 
 - 🎓 Studying Computer Science (Master's) at [Arizona State University](https://asu.edu)
-- 💡 Software Team Lead at the [Luminosity Lab](https://theluminositylab.com)
+- 💡 Grad Research Assistant, [Luminosity Lab](https://theluminositylab.com), Arizona State University
 - ⌚️ Founder at [Timebound](https://timebound.org)
--  WiFi SWE Intern at [Apple](https://apple.com)
 
 Previously:
 - 🎓 Bachelor's in Computer Science at [Arizona State University](https://asu.edu)
