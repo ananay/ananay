@@ -10,6 +10,3 @@ Previously:
 - ⌚️ Founder at [Timebound](https://timebound.org)
 - 🔒 Security Researcher at [SEFCOM at ASU](https://sefcom.asu.edu)
 - 👨🏻‍💻 SWE Intern at [Coding Blocks](https://codingblocks.com) (Summer 2019)
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/ananay/ananay/master/8vIFoKU8s4m4CBqCao.webp');]{x0000}$}
