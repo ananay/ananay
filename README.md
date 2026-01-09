@@ -3,6 +3,7 @@
 Building in Stealth 🥷
 
 Previously:
+- 🧾 Founding Engineer at [Legix](https://legix.ai)
 -  SWE Intern at [Apple](https://apple.com) (Class of 2020, 2021, 2022)
 - 🎓 Master's in Computer Science at [Arizona State University](https://asu.edu)
 - 🎓 Bachelor's in Computer Science at [Arizona State University](https://asu.edu)
